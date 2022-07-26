@@ -195,6 +195,7 @@ footer {
   font-size: 2.5rem;
   font-weight: 600;
   text-align: center;
+  color: black;
 }
 
 .footer-ecell {
@@ -387,7 +388,7 @@ h5 {
   /**
    * typography
    */
-  --ff-josefin: "Josefin sans", sans-serif;
+  --ff-josefin: "Poppins", sans-serif;
   --fs-1: 25px;
   --fs-2: 18px;
   --fs-3: 17px;
